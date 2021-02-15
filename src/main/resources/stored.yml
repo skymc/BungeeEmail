@@ -1,0 +1,9 @@
+data:
+  #目前支持 ymal 和 mysql  待更新sqlite
+  stored: mysql
+  mysql:
+    ip: localhost
+    database: bemail
+    username: root
+    password: root
+    port: 3306

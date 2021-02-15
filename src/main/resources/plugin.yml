@@ -1,0 +1,11 @@
+name: BungeeEmail
+version: ${project.version}
+main: com.fzzfegg.bungeeemail.BungeeEmail
+api-version: 1.16
+prefix: BungeeEmail
+authors: [ Fzzfegg ]
+description: BungeeEmail
+commands:
+  bemail:
+    usage: "/bcemail"
+    aliases: [be]
